@@ -8,7 +8,7 @@
 	start: .asciiz "\na["
 	betw: .asciiz "]["
 	end: .asciiz "] = "
-	result: .asciiz "Output: \n"
+	result: .asciiz "\nOutput: \n"
 	endl: .asciiz "\n"
 	tab: .asciiz "  "
 	a: .word 0:100
